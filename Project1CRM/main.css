@@ -1,0 +1,89 @@
+.marquee {
+    font-size: 60px;
+}
+
+.small-text {
+    padding-right: 30px;
+}
+
+.links {
+    text-decoration: none;
+}
+
+.small-img {
+    width: 90px;
+    height: auto;
+}
+
+.small-img2 {
+    width: 170px;
+    height: auto;
+}
+
+.small-img3 {
+    width: 105px;
+    height: auto;
+}
+
+.header-img {
+    width: 420px;
+    height: auto;
+    display: block;
+    margin: auto;
+    position: relative;
+    bottom: 20px;
+    float:right;
+}
+
+.spacer-bar {
+    width: 60%;
+    border-bottom: 1px solid lightgray;
+    display: block;
+    margin: auto;
+}
+
+.centered-text {
+    text-align: center;
+}
+
+.text-container {
+    max-width: 650px;
+    margin: auto;
+}
+
+.img-grid {
+    width: 130px;
+    height: auto;
+    display: block;
+    margin: auto;
+}
+
+.centered {
+    display: block;
+    margin: auto;
+}
+
+.smaller-text {
+    font-size: 13px;
+}
+
+.tight {
+    max-width: 320px;
+}
+
+.green {
+    background-color: greenyellow;
+}
+
+.centered2 {
+    display: inline-block;
+    margin: auto;
+}
+
+.flex {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-content: center;
+    justify-content: center;
+}
