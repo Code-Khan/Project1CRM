@@ -109,13 +109,6 @@
     height: 55px;
 }
 
-/* i {
-    display: inline;
-    position: relative;
-    top: 63px;
-    left: 18px;
-} */
-
 .right {
     padding-left: 40px;
 }
@@ -247,4 +240,33 @@ form{
 
 .image{
     width: 100%;
+}
+
+.flex-col {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+}
+
+.tall {
+    height: 100vh;
+}
+
+.rounder-btn {
+    border-radius: 8px;
+    width: 105x;
+}
+
+.flexi {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-content: center;
+    justify-content: space-around;
+}
+
+.links-hover:hover {
+    text-decoration: underline;
 }
